@@ -1,0 +1,15 @@
+# macOS files
+.DS_Store
+
+# Vim/Nano temp files
+*.swp
+*.swo
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Shell history/temp
+*.tmp
